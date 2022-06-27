@@ -1,0 +1,1674 @@
+2022-04-06 22:49:39,442 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:49:39,442 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:49:39,443 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:49:39,443 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:49:39,443 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:39,443 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:39,462 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:39,462 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:39,479 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:49:39,479 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:49:39,479 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:49:39,479 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:49:40,999 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:49:40,999 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:49:41,029 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:49:41,029 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:49:41,043 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:49:41,043 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:49:41,348 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:49:41,348 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:49:43,252 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:49:43,252 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:49:43,349 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:49:43,349 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:49:43,363 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:49:43,363 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:49:43,363 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:49:43,363 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:49:44,998 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:49:44,998 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:49:45,073 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:49:45,073 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:49:45,088 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:49:45,088 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:49:45,098 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:49:45,098 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:49:45,098 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:49:45,098 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:49:45,108 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:49:45,108 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:49:45,659 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:49:45,659 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:49:48,374 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:48,374 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:48,572 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:48,572 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:48,585 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:48,585 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:48,599 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:48,599 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:48,611 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:49:48,611 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:49:48,612 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:49:48,612 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:49:50,258 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:49:50,258 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:49:50,370 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:49:50,370 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:49:50,383 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:49:50,383 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:49:50,874 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:49:50,874 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:49:52,253 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:49:52,253 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:49:52,317 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:49:52,317 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:49:52,330 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:49:52,330 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:49:52,330 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:49:52,330 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:49:54,117 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:49:54,117 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:49:54,223 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:49:54,223 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:49:54,235 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:49:54,235 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:49:54,293 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:49:54,293 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:49:54,294 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:49:54,294 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:49:54,353 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:49:54,353 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:49:54,371 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:49:54,371 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:49:54,442 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:49:54,442 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:49:55,019 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:49:55,019 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:49:56,929 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:56,929 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:49:57,030 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:57,030 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:49:57,042 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:49:57,042 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:49:57,042 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:49:57,042 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:49:58,401 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:49:58,401 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:49:58,490 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:49:58,490 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:49:58,502 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:49:58,502 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:49:58,984 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:49:58,984 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:00,290 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:00,290 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:00,360 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:50:00,360 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:50:00,374 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:50:00,374 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:50:00,375 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:50:00,375 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:50:02,423 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:50:02,423 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:50:02,528 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:50:02,528 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:50:02,541 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:50:02,541 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:50:02,551 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:50:02,551 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:50:02,551 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:50:02,551 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:50:02,557 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:50:02,557 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:50:02,557 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:50:02,557 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:50:04,290 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:04,290 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:04,341 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:04,341 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:04,355 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:50:04,355 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:50:04,831 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:04,831 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:06,602 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:06,602 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:06,722 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:50:06,722 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:50:06,735 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:50:06,735 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:50:06,735 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:50:06,735 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:50:08,245 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:50:08,245 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:50:08,353 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:50:08,353 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:50:08,366 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:50:08,366 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:50:08,436 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:50:08,436 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:50:08,437 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:50:08,437 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:50:08,524 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:50:08,524 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:50:08,574 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:50:08,574 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:50:08,608 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:50:08,608 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:50:10,083 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:50:10,083 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:50:10,084 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:10,084 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:10,212 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:10,212 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:10,226 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:50:10,226 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:50:12,222 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:50:12,222 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:50:12,223 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:50:12,223 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:50:12,334 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:50:12,334 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:50:12,348 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:50:12,348 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:50:15,482 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:50:15,482 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:50:15,535 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:50:15,535 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:50:16,105 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:50:16,105 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:50:19,181 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:50:19,181 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:50:19,231 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:50:19,231 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:50:19,794 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:50:19,794 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:50:19,851 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:50:19,851 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:50:20,384 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:50:20,384 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:50:20,396 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:50:20,396 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:50:20,396 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:50:20,396 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:50:20,416 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:50:20,416 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:50:46,348 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:50:46,348 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:50:46,349 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:50:46,349 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:50:46,349 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:50:46,349 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:50:46,378 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:50:46,378 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:50:46,405 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:50:46,405 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:50:46,405 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:50:46,405 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:50:47,836 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:47,836 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:47,887 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:47,887 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:47,902 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:50:47,902 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:50:48,220 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:48,220 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:51,071 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:51,071 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:51,172 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:50:51,172 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:50:51,184 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:50:51,184 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:50:51,185 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:50:51,185 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:50:52,655 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:50:52,655 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:50:52,760 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:50:52,760 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:50:52,772 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:50:52,772 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:50:52,781 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:50:52,781 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:50:52,782 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:50:52,782 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:50:52,791 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:50:52,791 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:50:53,345 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:50:53,345 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:50:55,715 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:50:55,715 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:50:55,762 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:50:55,762 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:50:55,780 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:50:55,780 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:50:55,794 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:50:55,794 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:50:55,807 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:50:55,807 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:50:55,807 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:50:55,807 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:50:57,490 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:57,490 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:50:57,589 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:57,589 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:50:57,603 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:50:57,603 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:50:57,960 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:57,960 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:50:59,902 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:50:59,902 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:51:00,005 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:51:00,005 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:51:00,019 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:51:00,019 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:51:00,020 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:51:00,020 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:51:01,519 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:51:01,519 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:51:01,570 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:51:01,570 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:51:01,587 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:51:01,587 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:51:01,645 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:51:01,645 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:51:01,645 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:51:01,645 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:51:01,695 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:51:01,695 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:51:01,715 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:51:01,715 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:51:01,796 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:51:01,796 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:51:02,383 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:51:02,383 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:51:04,658 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:04,658 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:04,771 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:04,771 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:04,785 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:51:04,785 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:51:04,785 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:51:04,785 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:51:06,291 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:06,291 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:06,381 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:51:06,381 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:51:06,394 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:51:06,394 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:51:06,809 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:51:06,809 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:51:09,073 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:51:09,073 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:51:09,124 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:51:09,124 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:51:09,138 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:51:09,138 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:51:09,138 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:51:09,138 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:51:10,617 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:51:10,617 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:51:10,722 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:51:10,722 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:51:10,734 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:51:10,734 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:51:10,784 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:51:10,784 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:51:10,784 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:51:10,784 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:51:10,845 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:51:10,845 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:51:10,881 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:51:10,881 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:51:11,002 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:51:11,002 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:51:12,678 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:51:12,678 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:51:12,678 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:12,678 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:12,770 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:51:12,770 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:51:12,782 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:51:12,782 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:51:14,882 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:51:14,882 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:51:14,882 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:51:14,882 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:51:14,977 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:51:14,977 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:51:14,990 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:51:14,990 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:51:21,315 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:51:21,315 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:51:21,375 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:51:21,375 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:51:21,985 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:51:21,985 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:51:25,080 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:51:25,080 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:51:25,126 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:51:25,126 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:51:25,690 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:51:25,690 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:51:25,744 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:51:25,744 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:51:26,287 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:51:26,287 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:51:26,299 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:51:26,299 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:51:26,299 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:51:26,299 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:51:26,318 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:51:26,318 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:51:26,338 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:51:26,338 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:51:26,357 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:51:26,357 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:51:50,591 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:51:50,591 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:51:50,592 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:51:50,592 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:51:50,592 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:50,592 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:50,622 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:50,622 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:50,637 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:51:50,637 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:51:50,637 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:51:50,637 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:51:52,064 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:52,064 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:52,107 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:51:52,107 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:51:52,122 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:51:52,122 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:51:52,456 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:51:52,456 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:51:54,264 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:51:54,264 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:51:54,362 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:51:54,362 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:51:54,375 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:51:54,375 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:51:54,375 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:51:54,375 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:51:56,165 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:51:56,165 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:51:56,268 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:51:56,268 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:51:56,282 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:51:56,282 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:51:56,292 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:51:56,292 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:51:56,292 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:51:56,292 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:51:56,300 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:51:56,300 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:51:56,844 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:51:56,844 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:51:58,516 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:58,516 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:58,620 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:58,620 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:58,633 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:58,633 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:51:58,646 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:58,646 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:51:58,659 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:51:58,659 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:51:58,659 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:51:58,659 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:51:59,938 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:51:59,938 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:00,040 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:00,040 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:00,054 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:52:00,054 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:52:00,447 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:00,447 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:02,351 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:02,351 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:02,416 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:02,416 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:02,429 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:52:02,429 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:52:02,430 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:02,430 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:03,949 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:03,949 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:04,052 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:04,052 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:04,065 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:04,065 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:04,075 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:52:04,075 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:52:04,075 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:04,075 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:04,084 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:52:04,084 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:52:04,615 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:52:04,615 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:52:06,479 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:52:06,479 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:52:06,532 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:52:06,532 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:52:06,546 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:52:06,546 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:52:06,558 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:52:06,558 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:52:06,571 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:52:06,571 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:52:06,571 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:52:06,571 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:52:07,884 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:07,884 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:08,011 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:08,011 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:08,023 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:52:08,023 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:52:08,393 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:08,393 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:10,170 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:10,170 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:10,277 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:10,277 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:10,290 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:52:10,290 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:52:10,291 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:10,291 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:12,074 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:12,074 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:12,124 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:12,124 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:12,137 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:12,137 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:12,193 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:52:12,193 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:52:12,193 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:12,193 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:12,245 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:52:12,245 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:52:12,265 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:52:12,265 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:52:12,373 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:52:12,373 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:52:12,941 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:52:12,941 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:52:15,268 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:52:15,268 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:52:15,463 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:52:15,463 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:52:15,477 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:52:15,477 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:52:15,477 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:52:15,477 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:52:16,967 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:16,967 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:17,035 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:17,035 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:17,052 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:52:17,052 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:52:17,518 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:17,518 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:18,740 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:18,740 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:18,831 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:18,831 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:18,844 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:52:18,844 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:52:18,844 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:18,844 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:20,634 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:20,634 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:20,682 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:20,682 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:20,696 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:20,696 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:20,703 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:52:20,703 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:52:20,703 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:20,703 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:20,710 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:52:20,710 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:52:20,710 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:52:20,710 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:52:22,818 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:22,818 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:22,925 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:22,925 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:22,938 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:52:22,938 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:52:23,394 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:23,394 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:52:25,948 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:25,948 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:52:26,050 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:26,050 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:52:26,063 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:52:26,063 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:52:26,063 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:26,063 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:52:30,204 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:30,204 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:52:30,291 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:30,291 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:52:30,304 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:30,304 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:52:30,370 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:52:30,370 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:52:30,370 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:30,370 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:52:30,427 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:52:30,427 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:52:30,445 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:52:30,445 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:52:30,601 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:52:30,601 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:52:31,898 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:52:31,898 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:52:31,898 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:31,898 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:52:31,998 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:31,998 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:52:32,017 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:52:32,017 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:52:33,571 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:52:33,571 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:52:33,571 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:52:33,571 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:52:33,657 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:52:33,657 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:52:33,670 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:52:33,670 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:52:38,956 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:52:38,956 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:52:39,019 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:52:39,019 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:52:39,581 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:52:39,581 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:52:42,649 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:52:42,649 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:52:42,695 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:52:42,695 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:52:43,275 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:52:43,275 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:52:43,325 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:52:43,325 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:52:43,868 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:52:43,868 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:52:43,881 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:52:43,881 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:52:43,881 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:52:43,881 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:52:43,903 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:52:43,903 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:53:04,566 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:53:04,566 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:53:04,567 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:53:04,567 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:53:04,567 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:04,567 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:04,587 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:04,587 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:04,601 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:53:04,601 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:53:04,602 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:04,602 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:06,361 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:06,361 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:06,423 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:06,423 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:06,436 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:53:06,436 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:53:06,746 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:06,746 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:08,737 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:08,737 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:08,797 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:08,797 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:08,814 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:53:08,814 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:53:08,814 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:08,814 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:10,635 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:10,635 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:10,746 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:10,746 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:10,758 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:10,758 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:10,767 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:53:10,767 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:53:10,767 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:10,767 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:10,776 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:53:10,776 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:53:11,312 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:53:11,312 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:53:13,932 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:13,932 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:13,982 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:13,982 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:13,998 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:13,998 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:14,012 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:14,012 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:14,025 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:53:14,025 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:53:14,025 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:14,025 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:15,417 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:15,417 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:15,530 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:15,530 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:15,543 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:53:15,543 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:53:16,016 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:16,016 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:18,137 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:18,137 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:18,197 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:18,197 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:18,215 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:53:18,215 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:53:18,215 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:18,215 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:19,711 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:19,711 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:19,824 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:19,824 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:19,836 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:19,836 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:19,884 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:53:19,884 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:53:19,884 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:19,884 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:19,945 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:53:19,945 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:53:20,028 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:53:20,028 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:53:20,051 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:53:20,051 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:53:20,652 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:53:20,652 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:53:22,595 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:22,595 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:53:22,697 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:22,697 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:53:22,709 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:22,709 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:22,710 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:22,710 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:24,664 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:24,664 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:24,771 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:24,771 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:24,784 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:24,784 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:25,254 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:25,254 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:27,238 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:27,238 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:27,306 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:27,306 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:27,321 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:27,321 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:27,321 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:27,321 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:28,755 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:28,755 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:28,850 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:28,850 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:28,863 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:28,863 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:28,878 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:28,878 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:28,878 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:28,878 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:28,884 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:28,884 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:28,885 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:28,885 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:31,611 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:31,611 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:31,711 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:31,711 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:31,724 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:31,724 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:32,117 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:32,117 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:34,279 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:34,279 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:34,337 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:34,337 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:34,351 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:34,351 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:34,352 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:34,352 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:35,833 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:35,833 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:35,933 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:35,933 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:35,945 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:35,945 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:35,950 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:35,950 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:35,951 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:35,951 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:35,956 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:35,956 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:35,956 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:35,956 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:37,589 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:37,589 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:37,675 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:37,675 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:37,687 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:37,687 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:38,071 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:38,071 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:40,680 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:40,680 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:40,733 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:40,733 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:40,746 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:40,746 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:40,747 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:40,747 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:42,454 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:42,454 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:42,554 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:42,554 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:42,570 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:42,570 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:42,577 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:42,577 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:42,577 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:42,577 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:42,583 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:42,583 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:53:42,583 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:42,583 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:53:44,292 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:44,292 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:44,401 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:44,401 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:44,413 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:44,413 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:53:44,916 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:44,916 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:53:46,293 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:46,293 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:53:47,241 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:47,241 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:53:47,333 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:47,333 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:53:47,333 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:47,333 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:53:49,151 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:49,151 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:53:49,202 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:49,202 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:53:49,217 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:49,217 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:53:49,281 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:49,281 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:53:49,281 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:49,281 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:53:49,320 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:53:49,320 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:53:49,471 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:53:49,471 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:53:49,507 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:53:49,507 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:53:50,837 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:53:50,837 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:53:50,837 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:50,837 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:53:50,948 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:50,948 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:53:50,961 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:53:50,961 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:53:52,918 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:53:52,918 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:53:52,918 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:53:52,918 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:53:53,022 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:53:53,022 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:53:53,043 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:53:53,043 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:53:56,195 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:53:56,195 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:53:56,249 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:53:56,249 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:53:56,816 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:53:56,816 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:53:59,884 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:53:59,884 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:53:59,934 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:53:59,934 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:54:00,526 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:54:00,526 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:54:00,580 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:54:00,580 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:54:01,162 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:54:01,162 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:54:01,175 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:54:01,175 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:54:01,175 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:01,175 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:01,193 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:01,193 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:01,216 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:54:01,216 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:54:01,238 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:01,238 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:12,723 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:54:12,723 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:54:12,723 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:54:12,723 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:54:12,723 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:12,723 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:12,744 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:12,744 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:12,759 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:54:12,759 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:54:12,759 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:54:12,759 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:54:14,164 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:14,164 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:14,207 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:14,207 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:14,221 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:54:14,221 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:54:14,548 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:54:14,548 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:54:16,062 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:54:16,062 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:54:16,124 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:54:16,124 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:54:16,184 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:54:16,184 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:54:16,185 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:54:16,185 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:54:17,567 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:54:17,567 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:54:17,627 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:54:17,627 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:54:17,641 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:54:17,641 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:54:17,650 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:54:17,650 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:54:17,651 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:54:17,651 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:54:17,661 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:54:17,661 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:54:18,207 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:54:18,207 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:54:20,060 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:20,060 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:20,114 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:20,114 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:20,127 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:20,127 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:20,155 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:20,155 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:20,177 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:54:20,177 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:54:20,177 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:54:20,177 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:54:21,623 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:21,623 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:21,740 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:21,740 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:21,759 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:54:21,759 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:54:22,235 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:54:22,235 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:54:24,697 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:54:24,697 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:54:24,754 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:54:24,754 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:54:24,768 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:54:24,768 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:54:24,768 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:54:24,768 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:54:26,783 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:54:26,783 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:54:26,881 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:54:26,881 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:54:26,894 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:54:26,894 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:54:26,945 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:54:26,945 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:54:26,945 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:54:26,945 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:54:27,003 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:54:27,003 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:54:27,022 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:54:27,022 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:54:27,042 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:54:27,042 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:54:27,649 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:54:27,649 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:54:29,789 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:29,789 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:54:29,990 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:29,990 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:54:30,004 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:54:30,004 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:54:30,004 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:54:30,004 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:54:31,292 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:31,292 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:31,387 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:31,387 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:31,400 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:54:31,400 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:54:31,790 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:54:31,790 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:54:34,529 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:54:34,529 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:54:34,581 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:54:34,581 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:54:34,596 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:54:34,596 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:54:34,596 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:54:34,596 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:54:36,295 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:54:36,295 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:54:36,392 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:54:36,392 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:54:36,406 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:54:36,406 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:54:36,460 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:54:36,460 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:54:36,460 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:54:36,460 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:54:36,516 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:54:36,516 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:54:36,541 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:54:36,541 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:54:36,611 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:54:36,611 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:54:38,354 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:54:38,354 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:54:38,354 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:38,354 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:54:38,449 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:38,449 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:54:38,462 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:54:38,462 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:54:40,430 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:54:40,430 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:54:40,430 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:54:40,430 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:54:40,550 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:54:40,550 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:54:40,563 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:54:40,563 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:54:43,739 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:54:43,739 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:54:43,797 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:54:43,797 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:54:44,365 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:54:44,365 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:54:47,431 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:54:47,431 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:54:47,480 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:54:47,480 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:54:48,063 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:54:48,063 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:54:48,124 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:54:48,124 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:54:48,659 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:54:48,659 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:54:48,674 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:54:48,674 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:54:48,674 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:48,674 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:48,695 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:48,695 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:48,717 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:54:48,717 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:54:48,743 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:54:48,743 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:55:01,235 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:55:01,235 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:55:01,236 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:55:01,236 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:55:01,236 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:55:01,236 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:55:01,256 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:55:01,256 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:55:01,270 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:55:01,270 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:55:01,270 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:55:01,270 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:55:02,624 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:55:02,624 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:55:02,663 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:55:02,663 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:55:02,680 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:55:02,680 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:55:03,000 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:55:03,000 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:55:04,892 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:55:04,892 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:55:04,992 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:55:04,992 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:55:05,006 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:55:05,006 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:55:05,006 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:55:05,006 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:55:06,590 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:55:06,590 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:55:06,645 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:55:06,645 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:55:06,660 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:55:06,660 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:55:06,732 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:55:06,732 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:55:06,732 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:55:06,732 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:55:06,772 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:55:06,772 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:55:06,806 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:55:06,806 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:55:06,824 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:55:06,824 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:55:07,406 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:55:07,406 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:55:09,922 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:55:09,922 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:55:10,123 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:55:10,123 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:55:10,136 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:55:10,136 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:55:10,136 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:55:10,136 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:55:11,463 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:55:11,463 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:55:11,549 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:55:11,549 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:55:11,562 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:55:11,562 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:55:11,911 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:55:11,911 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:55:13,597 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:55:13,597 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:55:13,696 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:55:13,696 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:55:13,711 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:55:13,711 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:55:13,711 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:55:13,711 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:55:15,007 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:55:15,007 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:55:15,062 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:55:15,062 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:55:15,078 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:55:15,078 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:55:15,137 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:55:15,137 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:55:15,137 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:55:15,137 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:55:15,186 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:55:15,186 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:55:15,218 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:55:15,218 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:55:15,286 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:55:15,286 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:55:16,747 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:55:16,747 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:55:16,748 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:55:16,748 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:55:16,841 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:55:16,841 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:55:16,855 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:55:16,855 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:55:18,639 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:55:18,639 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:55:18,639 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:55:18,639 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:55:18,763 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:55:18,763 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:55:18,776 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:55:18,776 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:55:25,544 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:55:25,544 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:55:25,601 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:55:25,601 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:55:26,156 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:55:26,156 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:55:29,223 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:55:29,223 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:55:29,273 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:55:29,273 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:55:29,878 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:55:29,878 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:55:29,940 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:55:29,940 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:55:30,469 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:55:30,469 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:55:30,483 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:55:30,483 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:55:30,483 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:55:30,483 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:55:30,502 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:55:30,502 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:55:30,521 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:55:30,521 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : second_car_engine
+2022-04-06 22:55:59,218 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:55:59,218 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:55:59,218 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:55:59,218 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:55:59,218 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:55:59,218 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:55:59,238 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:55:59,238 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:55:59,254 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:55:59,254 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:55:59,254 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:55:59,254 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:00,946 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:00,946 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:00,995 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:00,995 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:01,012 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:01,012 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:01,332 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:01,332 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:03,130 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:03,130 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:03,235 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:03,235 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:03,247 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:03,247 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:03,247 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:03,247 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:04,819 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:04,819 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:04,872 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:04,872 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:04,884 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:04,884 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:04,894 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:04,894 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:04,894 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:04,894 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:04,903 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:04,903 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:05,449 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:05,449 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:08,259 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:08,259 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:08,307 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:08,307 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:08,320 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:08,320 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:08,334 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:08,334 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:08,346 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:56:08,346 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:56:08,346 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:08,346 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:09,949 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:09,949 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:10,052 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:10,052 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:10,064 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:10,064 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:10,474 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:10,474 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:12,484 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:12,484 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:12,543 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:12,543 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:12,557 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:12,557 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:12,557 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:12,557 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:14,023 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:14,023 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:14,146 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:14,146 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:14,158 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:14,158 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:14,163 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:14,163 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:14,163 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:14,163 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:14,168 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:14,168 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:14,709 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:14,709 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:16,949 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:16,949 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:17,153 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:17,153 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:17,165 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:17,165 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:17,177 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:17,177 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:17,190 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:56:17,190 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:56:17,190 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:17,190 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:18,542 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:18,542 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:18,653 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:18,653 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:18,667 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:18,667 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:19,093 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:19,093 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:20,983 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:20,983 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:21,079 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:21,079 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:21,091 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:21,091 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:21,091 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:21,091 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:22,521 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:22,521 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:22,592 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:22,592 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:22,614 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:22,614 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:22,624 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:22,624 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:22,624 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:22,624 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:22,634 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:22,634 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:23,182 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:23,182 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:24,874 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:24,874 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:24,972 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:24,972 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:24,988 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:24,988 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:25,001 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:25,001 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:25,015 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:56:25,015 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:56:25,015 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:25,015 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:26,955 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:26,955 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:27,057 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:27,057 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:27,069 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:27,069 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:56:27,556 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:27,556 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:29,148 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:29,148 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:29,265 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:29,265 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:29,278 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:29,278 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:56:29,278 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:29,278 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:31,166 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:31,166 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:31,269 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:31,269 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:31,282 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:31,282 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:31,341 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:31,341 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:56:31,341 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:31,341 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:31,407 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:56:31,407 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:56:31,426 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:56:31,426 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:56:31,490 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:31,490 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:56:32,045 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:32,045 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:34,024 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:34,024 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:56:34,146 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:34,146 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:56:34,159 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:56:34,159 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:56:34,159 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:34,159 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:35,539 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:35,539 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:35,649 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:35,649 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:35,661 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:56:35,661 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:56:36,158 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:36,158 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:37,446 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:37,446 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:37,551 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:37,551 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:37,562 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:56:37,562 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:56:37,562 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:37,562 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:38,930 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:38,930 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:39,008 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:39,008 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:39,022 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:39,022 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:39,037 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:56:39,037 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:56:39,038 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:39,038 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:39,044 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:56:39,044 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:56:39,044 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:39,044 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:41,306 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:41,306 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:41,407 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:41,407 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:41,419 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:56:41,419 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:56:41,885 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:41,885 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:43,987 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:43,987 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:44,107 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:44,107 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:44,119 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:56:44,119 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:56:44,119 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:44,119 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:45,586 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:45,586 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:45,689 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:45,689 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:45,701 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:45,701 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:45,707 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:56:45,707 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:56:45,707 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:45,707 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:45,713 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:56:45,713 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:56:45,713 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:45,713 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:56:48,381 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:48,381 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:48,478 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:48,478 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:48,491 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:56:48,491 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:56:48,898 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:48,898 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:56:52,712 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:52,712 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:56:52,762 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:52,762 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:56:52,777 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:56:52,777 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:56:52,777 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:52,777 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:56:57,133 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:57,133 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:56:57,242 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:57,242 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:56:57,255 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:57,255 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:56:57,319 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:56:57,319 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:56:57,319 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:57,319 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:56:57,387 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:56:57,387 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:56:57,405 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:56:57,405 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:56:57,505 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:57,505 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:56:59,330 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:56:59,330 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:56:59,331 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:59,331 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:56:59,449 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:59,449 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:56:59,462 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:56:59,462 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:57:01,042 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:57:01,042 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:57:01,042 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:57:01,042 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:57:01,175 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:57:01,175 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:57:01,187 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:57:01,187 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:57:20,524 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:57:20,524 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:57:20,524 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:57:20,524 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:57:20,524 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:57:20,524 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:57:20,550 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:57:20,550 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:57:20,565 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:57:20,565 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:57:20,565 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:57:20,565 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:57:21,940 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:57:21,940 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:57:21,983 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:57:21,983 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:57:21,999 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:57:21,999 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:57:22,310 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:57:22,310 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:57:23,728 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:57:23,728 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:57:23,824 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:57:23,824 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:57:23,837 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:57:23,837 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:57:23,837 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:57:23,837 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:57:25,461 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:57:25,461 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:57:25,565 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:57:25,565 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:57:25,577 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:57:25,577 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:57:25,638 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:57:25,638 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:57:25,638 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:57:25,638 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:57:25,687 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:57:25,687 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:57:25,705 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:57:25,705 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:57:25,724 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:57:25,724 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:57:26,296 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:57:26,296 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:57:28,157 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:57:28,157 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:57:28,255 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:57:28,255 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:57:28,270 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:57:28,270 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:57:28,270 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:57:28,270 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:57:29,556 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:57:29,556 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:57:29,617 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:57:29,617 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:57:29,631 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:57:29,631 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:57:30,009 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:57:30,009 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:57:31,263 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:57:31,263 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:57:31,359 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:57:31,359 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:57:31,372 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:57:31,372 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:57:31,373 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:57:31,373 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:57:33,093 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:57:33,093 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:57:33,149 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:57:33,149 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:57:33,165 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:57:33,165 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:57:33,227 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:57:33,227 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:57:33,227 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:57:33,227 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:57:33,276 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:57:33,276 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:57:33,293 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:57:33,293 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:57:33,376 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:57:33,376 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:57:34,872 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:57:34,872 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:57:34,872 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:57:34,872 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:57:34,977 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:57:34,977 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:57:34,991 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:57:34,991 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:57:36,601 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:57:36,601 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:57:36,602 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:57:36,602 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:57:36,720 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:57:36,720 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:57:36,733 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:57:36,733 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:57:40,437 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:57:40,437 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:57:40,494 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:57:40,494 - framework.utils.logger_utils - INFO - Step10.Checking if car one added to comparison
+2022-04-06 22:57:41,065 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:57:41,065 - framework.utils.logger_utils - INFO - Clicking on Link : second_car_link")
+2022-04-06 22:57:44,154 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:57:44,154 - framework.utils.logger_utils - INFO - Clicking on Button : add_car_button
+2022-04-06 22:57:44,212 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:57:44,212 - framework.utils.logger_utils - INFO - Step11.Checking that both cars were added
+2022-04-06 22:57:44,778 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:57:44,778 - framework.utils.logger_utils - INFO - Clicking on Button : see_the_comparison_button
+2022-04-06 22:57:44,829 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:57:44,829 - framework.utils.logger_utils - INFO - Waiting while page : ComparisonPage will open
+2022-04-06 22:57:45,404 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:57:45,404 - framework.utils.logger_utils - INFO - Checking if page : ComparisonPage is opened
+2022-04-06 22:57:45,418 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:57:45,418 - framework.utils.logger_utils - INFO - Step12.Checking if options are the same
+2022-04-06 22:57:45,418 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:57:45,418 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:57:45,438 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:57:45,438 - framework.utils.logger_utils - INFO - Trying to get text from SimpleText : first_car_engine
+2022-04-06 22:58:09,331 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:58:09,331 - framework.utils.logger_utils - INFO - Start of CARS test
+2022-04-06 22:58:09,331 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:58:09,331 - framework.utils.logger_utils - INFO - Step1.Attempt to open main page
+2022-04-06 22:58:09,331 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:58:09,331 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:58:09,353 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:58:09,353 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:58:09,368 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:58:09,368 - framework.utils.logger_utils - INFO - Step2.Trying to navigate to research page
+2022-04-06 22:58:09,368 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:58:09,368 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:58:10,736 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:58:10,736 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:58:10,775 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:58:10,775 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:58:10,794 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:58:10,794 - framework.utils.logger_utils - INFO - Step3.Trying to choose a random car and observe it
+2022-04-06 22:58:11,126 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:58:11,126 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:58:15,058 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:58:15,058 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:58:15,167 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:58:15,167 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:58:15,178 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:58:15,178 - framework.utils.logger_utils - INFO - Step4.Attempt to go to trim comparison
+2022-04-06 22:58:15,178 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:58:15,178 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:58:17,127 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:58:17,127 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:58:17,192 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:58:17,192 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:58:17,208 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:58:17,208 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:58:17,265 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:58:17,265 - framework.utils.logger_utils - INFO - Step5.Getting car characteristics
+2022-04-06 22:58:17,265 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:58:17,265 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:58:17,316 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:58:17,316 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:58:17,346 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:58:17,346 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:58:17,364 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:58:17,364 - framework.utils.logger_utils - INFO - Step6.Going to home page
+2022-04-06 22:58:17,937 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:58:17,937 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:58:19,763 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:58:19,763 - framework.utils.logger_utils - INFO - Waiting while page : MainPage will open
+2022-04-06 22:58:19,902 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:58:19,902 - framework.utils.logger_utils - INFO - Checking if page : MainPage is opened
+2022-04-06 22:58:19,914 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:58:19,914 - framework.utils.logger_utils - INFO - Step2_2.Trying to navigate to research page
+2022-04-06 22:58:19,914 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:58:19,914 - framework.utils.logger_utils - INFO - Clicking on Button : research_button 
+2022-04-06 22:58:21,804 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:58:21,804 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:58:21,910 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:58:21,910 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:58:21,923 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:58:21,923 - framework.utils.logger_utils - INFO - Step3_2.Trying to choose a random car and observe it
+2022-04-06 22:58:22,210 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:58:22,210 - framework.utils.logger_utils - INFO - Clicking on Button : research_button
+2022-04-06 22:58:24,570 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:58:24,570 - framework.utils.logger_utils - INFO - Waiting while page : CarDescriptionPage will open
+2022-04-06 22:58:24,686 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:58:24,686 - framework.utils.logger_utils - INFO - Checking if page : CarDescriptionPage is opened
+2022-04-06 22:58:24,699 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:58:24,699 - framework.utils.logger_utils - INFO - Step4_2.Attempt to go to trim comparison
+2022-04-06 22:58:24,699 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:58:24,699 - framework.utils.logger_utils - INFO - Clicking on Link : trim_comparison_link
+2022-04-06 22:58:26,662 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:58:26,662 - framework.utils.logger_utils - INFO - Waiting while page : TrimComparisonPage will open
+2022-04-06 22:58:26,764 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:58:26,764 - framework.utils.logger_utils - INFO - Checking if page : TrimComparisonPage is opened
+2022-04-06 22:58:26,776 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:58:26,776 - framework.utils.logger_utils - INFO - Clicking on Link : trim_list_link
+2022-04-06 22:58:26,835 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:58:26,835 - framework.utils.logger_utils - INFO - Step5_2.Getting car characteristics
+2022-04-06 22:58:26,835 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:58:26,835 - framework.utils.logger_utils - INFO - Trying to get text from TextField : trim_comparison_field
+2022-04-06 22:58:26,896 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:58:26,896 - framework.utils.logger_utils - INFO - Trying to get text from TextField : engine_field
+2022-04-06 22:58:26,916 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:58:26,916 - framework.utils.logger_utils - INFO - Trying to get text from TextField : transmission_field
+2022-04-06 22:58:26,994 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:58:26,994 - framework.utils.logger_utils - INFO - Clicking on Button : home_page_button
+2022-04-06 22:58:28,746 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:58:28,746 - framework.utils.logger_utils - INFO - Step8.Going back research page
+2022-04-06 22:58:28,746 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:58:28,746 - framework.utils.logger_utils - INFO - Waiting while page : ResearchPage will open
+2022-04-06 22:58:28,857 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:58:28,857 - framework.utils.logger_utils - INFO - Checking if page : ResearchPage is opened
+2022-04-06 22:58:28,871 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:58:28,871 - framework.utils.logger_utils - INFO - Clicking on Button : side_by_side_compare_button
+2022-04-06 22:58:30,509 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:58:30,509 - framework.utils.logger_utils - INFO - Step9.Checking if side compare page opened
+2022-04-06 22:58:30,509 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:58:30,509 - framework.utils.logger_utils - INFO - Waiting while page : SideBySideComparePage will open
+2022-04-06 22:58:30,595 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:58:30,595 - framework.utils.logger_utils - INFO - Checking if page : SideBySideComparePage is opened
+2022-04-06 22:58:30,607 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")
+2022-04-06 22:58:30,607 - framework.utils.logger_utils - INFO - Clicking on Link : first_car_link")

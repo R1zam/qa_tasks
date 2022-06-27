@@ -1,0 +1,23 @@
+{
+  "base_api_url": "https://api.vk.com/method/",
+  "login1": "+375291660762",
+  "password1": "PuV6j_.2&$m9h?UYY",
+  "token_param1": [
+    "access_token",
+    "9ffaf01f64b51be64ee81a383003a3c1149c78449983ef02f23beb668172269923cfc050cd33499749030"
+  ],
+  "user_id_param1": [
+    "owner_id",
+    627657327
+  ],
+  "version": [
+    "v",
+    5.81
+  ],
+  "likes_additional_params": {
+    "offset": 0,
+    "type": "post"
+  },
+  "post_deletion_wait": 5,
+  "image_path": "C:\\Users\\maxal\\A1\\level_2\\task5_api_vk_v2\\kotenok.jpg"
+}
